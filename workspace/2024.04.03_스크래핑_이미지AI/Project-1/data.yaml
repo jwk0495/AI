@@ -1,0 +1,13 @@
+names:
+- WaterDog
+- walrus
+nc: 2
+roboflow:
+  license: Private
+  project: project-dgpaz
+  url: https://app.roboflow.com/project-vwybe/project-dgpaz/1
+  version: 1
+  workspace: project-vwybe
+test: D:/workspace/2024.04.03/Project-1/test/images
+train: D:/workspace/2024.04.03/Project-1/train/images
+val: D:/workspace/2024.04.03/Project-1/valid/images
